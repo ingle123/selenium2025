@@ -11,6 +11,7 @@ public class ListToArray {
 		list .add("Hello");
 		list.add("jobber");
 		list.add("cafe");
+		list.add("Pune");
 		
 		String[]arr= new String[list.size()];
 		for(int i =0;i<list.size();i++) {
@@ -23,3 +24,4 @@ public class ListToArray {
 	}
 
 }
+
