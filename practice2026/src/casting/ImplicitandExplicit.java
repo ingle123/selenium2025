@@ -19,7 +19,7 @@ public class ImplicitandExplicit {
 	 System.out.println("Explicit Casting");
 	  i = (int) l;
 	 System.out.println(i);
-	 System.out.println(j);
+	 System.out.println(k);
 	 
 		
 		 
