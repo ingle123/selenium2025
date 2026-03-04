@@ -15,6 +15,7 @@ public class GHeneric {
 		list.add(50);
 		list.add(10);
 		list.add("Hello");
+		list.add("Bibhu")
 		
 		Print(list);
 	}	
@@ -32,3 +33,4 @@ public class GHeneric {
 	}
 
 }
+
