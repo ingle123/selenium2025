@@ -8,7 +8,7 @@ public class Singledimensionalarray {
 		int size = arr.length;
 		for (int i=0;i<size;i++) {
 			System.out.println(arr[i]);
-		}
+			System.out.println(arr[i]);
 	}
 
 }
