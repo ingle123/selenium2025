@@ -11,6 +11,9 @@ public class doubledimensionalarr {
 			int size = arr[i].length;
 			for(int j=0;j<size;j++) {
 				System.out.println(arr[i][j]);
+                  // System.out.println(arr[j][i]);
+
+
 			}
 		}
 
